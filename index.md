@@ -4,7 +4,7 @@
   
   
 
-## :earth_americas: 01 Estrutura de Redes, Internet e seus Fundamentos
+## 🌎 01 Estrutura de Redes, Internet e seus Fundamentos
 
   
 
